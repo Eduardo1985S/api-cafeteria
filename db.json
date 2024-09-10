@@ -1,0 +1,245 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Café Expresso",
+        "category": "Bebida",
+        "price": 5.00,
+        "description": "Café expresso forte e encorpado.",
+        "image": "https://example.com/images/cafe-expresso.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Cappuccino",
+        "category": "Bebida",
+        "price": 8.50,
+        "description": "Cappuccino cremoso com leite vaporizado.",
+        "image": "https://example.com/images/cappuccino.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Latte",
+        "category": "Bebida",
+        "price": 7.50,
+        "description": "Café com leite suave e cremoso.",
+        "image": "https://example.com/images/latte.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Chá Gelado de Limão",
+        "category": "Bebida",
+        "price": 6.00,
+        "description": "Chá gelado refrescante com sabor de limão.",
+        "image": "https://example.com/images/cha-gelado-limao.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Chá Verde",
+        "category": "Bebida",
+        "price": 5.50,
+        "description": "Chá verde natural, leve e saudável.",
+        "image": "https://example.com/images/cha-verde.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Bolo de Chocolate",
+        "category": "Doce",
+        "price": 12.00,
+        "description": "Bolo de chocolate com cobertura cremosa.",
+        "image": "https://example.com/images/bolo-chocolate.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Brownie",
+        "category": "Doce",
+        "price": 6.50,
+        "description": "Brownie de chocolate meio amargo.",
+        "image": "https://example.com/images/brownie.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Torta de Limão",
+        "category": "Doce",
+        "price": 10.00,
+        "description": "Torta de limão com massa crocante e recheio cremoso.",
+        "image": "https://example.com/images/torta-limao.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Croissant",
+        "category": "Lanche",
+        "price": 8.00,
+        "description": "Croissant amanteigado, leve e crocante.",
+        "image": "https://example.com/images/croissant.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Sanduíche Natural",
+        "category": "Lanche",
+        "price": 10.50,
+        "description": "Sanduíche natural com frango, alface e tomate.",
+        "image": "https://example.com/images/sanduiche-natural.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Pão de Queijo",
+        "category": "Lanche",
+        "price": 4.00,
+        "description": "Pão de queijo tradicional, crocante por fora e macio por dentro.",
+        "image": "https://example.com/images/pao-de-queijo.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Torrada com Geleia",
+        "category": "Lanche",
+        "price": 5.50,
+        "description": "Torrada crocante com geleia de frutas vermelhas.",
+        "image": "https://example.com/images/torrada-geleia.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Muffin de Blueberry",
+        "category": "Doce",
+        "price": 7.00,
+        "description": "Muffin fofo com pedaços de blueberry.",
+        "image": "https://example.com/images/muffin-blueberry.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Cookie de Chocolate",
+        "category": "Doce",
+        "price": 4.50,
+        "description": "Cookie crocante com gotas de chocolate.",
+        "image": "https://example.com/images/cookie-chocolate.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Biscoito de Polvilho",
+        "category": "Lanche",
+        "price": 3.00,
+        "description": "Biscoito de polvilho crocante e saboroso.",
+        "image": "https://example.com/images/biscoito-polvilho.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Chá Preto",
+        "category": "Bebida",
+        "price": 4.00,
+        "description": "Chá preto clássico, quente e reconfortante.",
+        "image": "https://example.com/images/cha-preto.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Frappuccino de Caramelo",
+        "category": "Bebida",
+        "price": 12.00,
+        "description": "Bebida gelada à base de café com caramelo e chantilly.",
+        "image": "https://example.com/images/frappuccino-caramelo.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Smoothie de Morango",
+        "category": "Bebida",
+        "price": 9.00,
+        "description": "Smoothie gelado de morango com iogurte.",
+        "image": "https://example.com/images/smoothie-morango.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Suco de Laranja Natural",
+        "category": "Bebida",
+        "price": 6.50,
+        "description": "Suco de laranja natural, refrescante e nutritivo.",
+        "image": "https://example.com/images/suco-laranja.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Chá de Camomila",
+        "category": "Bebida",
+        "price": 5.00,
+        "description": "Chá de camomila calmante e natural.",
+        "image": "https://example.com/images/cha-camomila.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Misto Quente",
+        "category": "Lanche",
+        "price": 7.00,
+        "description": "Sanduíche quente de presunto e queijo.",
+        "image": "https://example.com/images/misto-quente.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Quiche de Alho Poró",
+        "category": "Lanche",
+        "price": 10.00,
+        "description": "Quiche leve com alho poró e queijo.",
+        "image": "https://example.com/images/quiche-alho-poro.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Empada de Frango",
+        "category": "Lanche",
+        "price": 6.50,
+        "description": "Empada com recheio cremoso de frango.",
+        "image": "https://example.com/images/empada-frango.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Brigadeiro",
+        "category": "Doce",
+        "price": 2.50,
+        "description": "Doce brasileiro de chocolate com granulado.",
+        "image": "https://example.com/images/brigadeiro.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Bolo de Cenoura com Cobertura de Chocolate",
+        "category": "Doce",
+        "price": 10.00,
+        "description": "Bolo caseiro de cenoura com uma deliciosa cobertura de chocolate.",
+        "image": "https://example.com/images/bolo-cenoura.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Suco Detox",
+        "category": "Bebida",
+        "price": 8.00,
+        "description": "Suco detox com couve, limão e gengibre.",
+        "image": "https://example.com/images/suco-detox.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Torta de Maçã",
+        "category": "Doce",
+        "price": 8.00,
+        "description": "Torta crocante de maçã com canela.",
+        "image": "https://example.com/images/torta-maca.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Wrap de Frango",
+        "category": "Lanche",
+        "price": 9.00,
+        "description": "Wrap de frango com molho de iogurte.",
+        "image": "https://example.com/images/wrap-frango.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Panqueca de Banana",
+        "category": "Lanche",
+        "price": 6.00,
+        "description": "Panqueca leve de banana com mel.",
+        "image": "https://example.com/images/panqueca-banana.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Chocolate Quente",
+        "category": "Bebida",
+        "price": 7.00,
+        "description": "Chocolate quente cremoso com chantilly.",
+        "image": "https://example.com/images/chocolate-quente.jpg"
+      }
+    ]
+  }
+  
